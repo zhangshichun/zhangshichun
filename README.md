@@ -6,7 +6,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=zhangshichun&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="zhangshichun's GitHub stats" style="zoom:100%;" align="left"/>
     </td>
     <td>
-    <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1714893870865303&hide_border=true" alt="摸鱼的春哥的掘金数据" style="zoom:100%;" align="left"/>
+    <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1714893870865303&hide_border=true" alt="blogs：https://juejin.cn/user/1714893870865303" style="zoom:100%;" align="left"/>
     </td>
   </tr>
 </table>
