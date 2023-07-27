@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1714893870865303&hide_border=true" alt="摸鱼的春哥的掘金数据" style="zoom:100%;" align="left"/>
+
 <!--
 **zhangshichun/zhangshichun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
